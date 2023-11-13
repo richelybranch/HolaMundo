@@ -37,7 +37,7 @@
         app:layout_constraintVertical_bias="0.133" />
 
     <EditText
-        android:id="@+id/editTextText10"
+        android:id="@+id/txtDireccion"
         android:layout_width="338dp"
         android:layout_height="46dp"
         android:ems="10"
@@ -50,7 +50,7 @@
         app:layout_constraintVertical_bias="0.7" />
 
     <EditText
-        android:id="@+id/editTextText7"
+        android:id="@+id/txtApellido"
         android:layout_width="327dp"
         android:layout_height="48dp"
         android:ems="10"
@@ -95,7 +95,7 @@
         app:layout_constraintVertical_bias="0.514" />
 
     <EditText
-        android:id="@+id/editTextText9"
+        android:id="@+id/txtCedula"
         android:layout_width="332dp"
         android:layout_height="48dp"
         android:ems="10"
@@ -140,7 +140,7 @@
         app:layout_constraintVertical_bias="0.229" />
 
     <EditText
-        android:id="@+id/editTextText11"
+        android:id="@+id/txtCorreo"
         android:layout_width="350dp"
         android:layout_height="43dp"
         android:ems="10"
@@ -169,7 +169,7 @@
         app:layout_constraintVertical_bias="0.372" />
 
     <EditText
-        android:id="@+id/editTextText6"
+        android:id="@+id/txtNombre"
         android:layout_width="328dp"
         android:layout_height="48dp"
         android:ems="10"
@@ -182,7 +182,7 @@
         app:layout_constraintVertical_bias="0.282" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnIngresar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Ingresar"
